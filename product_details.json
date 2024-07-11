@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Novo Echo Spot com Alexa",
+        "price": "R$ 449.00",
+        "image": "https://m.media-amazon.com/images/I/71+RI03uZvL._AC_SY300_SX300_.jpg",
+        "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6?ref=dlx_deals_dg_dcl_B0C2RS4ZG6_dt_sl14_67"
+    },
+    {
+        "name": "Samsung Smart TV 65\" Crystal UHD 4K 65DU8000",
+        "price": "R$ 3.549.00",
+        "image": "https://m.media-amazon.com/images/I/71rEzuhuYTL._AC_SX355_.jpg",
+        "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-UHD-65DU8000/dp/B0CYN9D6G3?ref=dlx_deals_dg_dcl_B0CYN9D6G3_dt_sl14_67"
+    },
+    {
+        "name": "QCY H3 ANC Fone de Ouvido Bluetooth",
+        "price": "R$ 189.99",
+        "image": "https://m.media-amazon.com/images/I/51MvjUv989L._AC_SY450_.jpg",
+        "link": "https://www.amazon.com.br/QCY-ANC-Cancelamento-Certifica%C3%A7%C3%A3o-Multipontos/dp/B0CFFD7K4F?ref=dlx_deals_dg_dcl_B0CFFD7K4F_dt_sl14_67"
+    },
+    {
+        "name": "Zoetis Simparic 20Mg 5 1 Até 10Kg 03 Compr Para Cães",
+        "price": "R$ 151.91",
+        "image": "https://m.media-amazon.com/images/I/61pZi4gGriL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com.br/Simparic-20mg-10kg-Compr-Zoetis/dp/B07Y1Y7NDX?ref=dlx_deals_dg_dcl_B07Y1Y7NDX_dt_sl14_67"
+    }
+]
