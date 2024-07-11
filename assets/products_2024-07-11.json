@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Novo Echo Spot com Alexa",
+        "price": "R$ 449.00",
+        "image": "https://m.media-amazon.com/images/I/71+RI03uZvL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6?ref=dlx_deals_dg_dcl_B0C2RS4ZG6_dt_sl14_67"
+    },
+    {
+        "name": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+        "price": "R$ 125.30",
+        "image": "https://m.media-amazon.com/images/I/51CL2s7YMEL._AC_SY550_.jpg",
+        "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Black-Blended/dp/B004QEKTSO?ref=dlx_deals_dg_dcl_B004QEKTSO_dt_sl14_67"
+    },
+    {
+        "name": "Hollyland Lark M2 Microfone de Lapela sem Fio",
+        "price": "R$ 1.078.65",
+        "image": "https://m.media-amazon.com/images/I/61vXwLemjJL._AC_SY450_.jpg",
+        "link": "https://www.amazon.com.br/Hollyland-Transmiss%C3%A3o-Cancelamento-Compat%C3%ADvel-Vivo-Preto/dp/B0CP7QXWPN?ref=dlx_deals_dg_dcl_B0CP7QXWPN_dt_sl14_67"
+    },
+    {
+        "name": "Samsung Smart TV 65\" Crystal UHD 4K 65DU8000",
+        "price": "R$ --.--",
+        "image": "https://m.media-amazon.com/images/I/71rEzuhuYTL._AC_SX355_.jpg",
+        "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-UHD-65DU8000/dp/B0CYN9D6G3?ref=dlx_deals_dg_dcl_B0CYN9D6G3_dt_sl14_67"
+    }
+]
