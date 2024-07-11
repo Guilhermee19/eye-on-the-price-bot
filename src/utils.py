@@ -11,7 +11,9 @@ def truncate_product_name(name):
     return name[:first_occurrence].strip()
       
       
-def saveJson(products):
+# def saveJson(site_name, products):
+
+def saveJson(site_name, products):
     # Obter a data atual no formato 'YYYY-MM-DD'
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')
 
@@ -19,8 +21,27 @@ def saveJson(products):
     assets_dir = os.path.join(base_dir, 'assets')
 
     # Nome do arquivo com a data atual
-    filename = os.path.join(assets_dir, f'products_{current_date}.json')
+    filename = os.path.join(assets_dir, f'TT_products_{current_date}.json')
+
+    # Verificar se o arquivo já existe e carregar os dados existentes
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    else:
+        data = {}
+
+    # Adicionar ou atualizar os produtos para o site específico
+    if site_name.lower() not in data:
+        data[site_name.lower()] = []
+
+    # Verificar e adicionar produtos não duplicados
+    existing_links = {product['link'] for product in data[site_name.lower()]}
     
+    for product in products:
+        if product['link'] not in existing_links:
+            data[site_name.lower()].append(product)
+            existing_links.add(product['link'])
+
     # Salvar os detalhes dos produtos em um arquivo JSON
     with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(products, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=4)
