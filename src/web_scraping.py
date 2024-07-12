@@ -53,6 +53,8 @@ def searchKabum():
     num_products = len(products)
     print(f"Number of products: {num_products}")
     
+    array_product = []
+
     # Abre cada link em uma nova janela do navegador
     for link in links:
       print("----------------\n")
@@ -124,6 +126,8 @@ def searchAmazon():
     # Contar quantos produtos existem
     num_products = len(products)
     print(f"Number of products: {num_products}")
+    
+    array_product = []
     
     # Abre cada link em uma nova janela do navegador
     for link in links:
@@ -200,6 +204,8 @@ def searchMercadoLivre():
     # # Contar quantos produtos existem
     num_products = len(products)
     print(f"Number of products: {num_products}")
+    
+    array_product = []
     
     # Abre cada link em uma nova janela do navegador
     for link in links:

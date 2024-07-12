@@ -1,6 +1,23 @@
 import json
-import datetime
+from datetime import datetime, timedelta
 import os
+import time
+
+
+def wait_until(target_hour, target_minute):
+    os.system('cls' if os.name=='nt' else 'clear')
+    print("\n\n ------ O GATILHO DA COLETA É AS 10H ------ \n\n")
+    
+    """Aguarda até que seja a hora especificada."""
+    while True:
+        now = datetime.now()
+        if now.hour == target_hour and now.minute == target_minute:
+            break
+        # Calcular quanto tempo esperar até a próxima verificação
+        next_check = now.replace(second=0, microsecond=0) + timedelta(minutes=1)
+        time_to_sleep = (next_check - now).total_seconds()
+        time.sleep(time_to_sleep)
+        
 
 def truncate_product_name(name):
     # Definir os caracteres de corte
@@ -21,7 +38,7 @@ def saveJson(site_name, products):
     assets_dir = os.path.join(base_dir, 'assets')
 
     # Nome do arquivo com a data atual
-    filename = os.path.join(assets_dir, f'TT_products_{current_date}.json')
+    filename = os.path.join(assets_dir, f'products_{current_date}.json')
 
     # Verificar se o arquivo já existe e carregar os dados existentes
     if os.path.exists(filename):
@@ -45,3 +62,4 @@ def saveJson(site_name, products):
     # Salvar os detalhes dos produtos em um arquivo JSON
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+    

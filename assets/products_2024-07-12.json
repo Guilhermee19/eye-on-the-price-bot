@@ -1,0 +1,66 @@
+{
+    "amazon": [
+        {
+            "name": "Novo Echo Spot com Alexa",
+            "price": "R$ 449.00",
+            "image": "https://m.media-amazon.com/images/I/71+RI03uZvL._AC_SX425_.jpg",
+            "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6?ref=dlx_deals_dg_dcl_B0C2RS4ZG6_dt_sl14_61"
+        },
+        {
+            "name": "Hollyland Lark M2 Microfone de Lapela sem Fio",
+            "price": "R$ 1.078.65",
+            "image": "https://m.media-amazon.com/images/I/61vXwLemjJL._AC_SY450_.jpg",
+            "link": "https://www.amazon.com.br/Hollyland-Transmiss%C3%A3o-Cancelamento-Compat%C3%ADvel-Vivo-Preto/dp/B0CP7QXWPN?ref=dlx_deals_dg_dcl_B0CP7QXWPN_dt_sl14_61"
+        },
+        {
+            "name": "Complemento Alimentar Nutren Senior Sem Sabor Zero Lactose 740g",
+            "price": "R$ 99.90",
+            "image": "https://m.media-amazon.com/images/I/61cY6eHV6rS._AC_SX425_.jpg",
+            "link": "https://www.amazon.com.br/Complemento-Alimentar-Nutren-Senior-Lactose/dp/B08NYXLNMF?ref=dlx_deals_dg_dcl_B08NYXLNMF_dt_sl14_61"
+        },
+        {
+            "name": "Samsung Galaxy Book4 Intel® Core™ i7",
+            "price": "R$ --.--",
+            "image": "https://m.media-amazon.com/images/I/51lGW2nP9qL._AC_SY450_.jpg",
+            "link": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL?ref=dlx_deals_dg_dcl_B0D4NR66ZL_dt_sl14_61"
+        }
+    ],
+    "kabum": [
+        {
+            "name": "Notebook Acer Aspire 5 AMD Ryzen7",
+            "price": "R$ 2.699,99",
+            "image": "https://images.kabum.com.br/produtos/fotos/564915/notebook-acer-aspire-5-amd-ryzen7-5700u-16gb-ram-ssd-512gb-15-6-full-hd-ips-amd-radeon-linux-prata-a515-45-r74n_1716491063_g.jpg",
+            "link": "https://www.kabum.com.br/produto/564915/notebook-acer-aspire-5-amd-ryzen7-5700u-16gb-ram-ssd-512gb-15-6-full-hd-ips-amd-radeon-linux-prata-a515-45-r74n"
+        },
+        {
+            "name": "Kindle 11ª Geração Amazon",
+            "price": "R$ 439,99",
+            "image": "https://images.kabum.com.br/produtos/fotos/388917/kindle-11-geracao-amazon-16-gb-preto-luz-integrada-wifi-b09swtg9gf_1665003408_g.jpg",
+            "link": "https://www.kabum.com.br/produto/388917/kindle-11-geracao-amazon-16-gb-preto-luz-integrada-wifi-b09swtg9gf"
+        },
+        {
+            "name": "Placa de Vídeo RTX 3050 EX",
+            "price": "R$ 1.155,99",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/534528/Placa-de-V-deo-RTX-3050-EX-6GB-GDDR6-Galax-GeForce-com-Tecnologia-NVIDIA-Ampere_1720613969_g.jpg",
+            "link": "https://www.kabum.com.br/produto/534528/placa-de-video-rtx-3050-ex-6gb-gddr6-galax-geforce-com-tecnologia-nvidia-ampere"
+        },
+        {
+            "name": "Fone de Ouvido Apple Beats Fit Pro",
+            "price": "R$ 699,99",
+            "image": "https://images.kabum.com.br/produtos/fotos/464759/beats-fit-pro-true-wireless-earbuds-coral-rosa-mplj3be-a_1685540922_g.jpg",
+            "link": "https://www.kabum.com.br/produto/464759/fone-de-ouvido-apple-beats-fit-pro-bluetooth-anc-ipx4-in-ear-coral-rosa-mplj3be-a"
+        },
+        {
+            "name": "Cadeira Gamer Fox Office Fox Racer",
+            "price": "R$ 729,90",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/150593/Cadeira-Gamer-Fox-Office-Fox-Racer-at-130kgs-com-RGB-e-Ilumina-o-LED-com-almofadas-Reclin-vel-Preta_1702921725_g.jpg",
+            "link": "https://www.kabum.com.br/produto/150593/cadeira-gamer-fox-office-fox-racer-ate-130kgs-com-rgb-e-iluminacao-led-com-almofadas-reclinavel-preta"
+        },
+        {
+            "name": "Notebook Asus Vivobook 15 X1504za Intel Core I5 1235u",
+            "price": "R$ 2.380,23",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/549508/Notebook-Asus-Vivobook-15-X1504za-Intel-Core-I5-1235u-8GB-SSD-512GB-Tela-15-6-FHD-Linux-Keepos-Azul-Nj983_1712950699_g.jpg",
+            "link": "https://www.kabum.com.br/produto/549508/notebook-asus-vivobook-15-x1504za-intel-core-i5-1235u-8gb-ssd-512gb-tela-15-6-fhd-linux-keepos-azul-nj983"
+        }
+    ]
+}
