@@ -32,7 +32,8 @@ def truncate_product_name(name):
 
 def saveJson(site_name, products):
     # Obter a data atual no formato 'YYYY-MM-DD'
-    current_date = datetime.datetime.now().strftime('%Y-%m-%d')
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    print(current_date)
 
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     assets_dir = os.path.join(base_dir, 'assets')

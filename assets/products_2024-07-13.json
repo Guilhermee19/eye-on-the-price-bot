@@ -1,0 +1,40 @@
+{
+    "amazon": [
+        {
+            "name": "Novo Echo Spot com Alexa",
+            "price": "R$ 449.00",
+            "image": "https://m.media-amazon.com/images/I/71+RI03uZvL._AC_SX679_.jpg",
+            "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6?ref=dlx_deals_dg_dcl_B0C2RS4ZG6_dt_sl14_ec"
+        },
+        {
+            "name": "Hollyland Lark M2 Microfone de Lapela sem Fio",
+            "price": "R$ 1.078.65",
+            "image": "https://m.media-amazon.com/images/I/61vXwLemjJL._AC_SX679_.jpg",
+            "link": "https://www.amazon.com.br/Hollyland-Transmiss%C3%A3o-Cancelamento-Compat%C3%ADvel-Vivo-Preto/dp/B0CP7QXWPN?ref=dlx_deals_dg_dcl_B0CP7QXWPN_dt_sl14_ec"
+        },
+        {
+            "name": "Personal Papel Higiênico Vip Folha Tripla",
+            "price": "R$ 43.98",
+            "image": "https://m.media-amazon.com/images/I/618Yh-6ScaL._AC_SX679_.jpg",
+            "link": "https://www.amazon.com.br/Papel-Higi%C3%AAnico-Personal-Folha-Tripla/dp/B0C75GP7VP?ref=dlx_deals_dg_dcl_B0C75GP7VP_dt_sl14_ec"
+        },
+        {
+            "name": "Aperitivo Aperol 750ml",
+            "price": "R$ 34.90",
+            "image": "https://m.media-amazon.com/images/I/71aVsAhM3lL._AC_SX679_.jpg",
+            "link": "https://www.amazon.com.br/Campari-Aperitivo-Garrafa-750ml-Aperol/dp/B07HM62BR7?ref=dlx_deals_dg_dcl_B07HM62BR7_dt_sl14_ec"
+        },
+        {
+            "name": "Whisky Chivas Regal 12 anos Blended Escocês",
+            "price": "R$ 87.99",
+            "image": "https://m.media-amazon.com/images/I/51vXUyibQAL._AC_SX679_.jpg",
+            "link": "https://www.amazon.com.br/Whisky-Chivas-Regal-anos-750ml/dp/B001HUBXJO?ref=dlx_deals_dg_dcl_B001HUBXJO_dt_sl14_ec"
+        },
+        {
+            "name": "PILÃO Café Pilão Cápsula Intenso",
+            "price": "R$ 22.99",
+            "image": "https://m.media-amazon.com/images/I/61Xp9RxkFOL._AC_SX679_.jpg",
+            "link": "https://www.amazon.com.br/C%C3%A1psulas-Caf%C3%A9-Lungo-Pil%C3%A3o-com/dp/B07Y4W4VCG?ref=dlx_deals_dg_dcl_B07Y4W4VCG_dt_sl14_ec"
+        }
+    ]
+}

@@ -24,15 +24,15 @@ def main():
   
   # actions
   if choose == "1": 
-    while True:
-      wait_until(10, 0)
+    # while True:
+      # wait_until(10, 0)
       
       searchAmazon()
       searchKabum()
       getProducts()
       
       # Esperar um minuto para evitar múltiplas capturas na mesma hora
-      time.sleep(60)
+      # time.sleep(60)
         
 
   # actions

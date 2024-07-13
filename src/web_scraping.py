@@ -92,7 +92,7 @@ def searchKabum():
       
   except Exception as e:
     print(f"Erro: {e}")
-    searchKabum()
+    # searchKabum()
   finally:
     driver.quit()
       
@@ -102,7 +102,7 @@ def searchAmazon():
   
   try:
     # Inicializar o WebDriver do Edge com as opções configuradas
-    driver = setup_driver(True)
+    driver = setup_driver(False)
     
     # Abrir o navegador em tela cheia
     driver.maximize_window()
@@ -170,7 +170,7 @@ def searchAmazon():
       
   except Exception as e:
     print(f"Erro: {e}")
-    searchAmazon()
+    # searchAmazon()
   finally:
     driver.quit()
       
@@ -247,7 +247,7 @@ def searchMercadoLivre():
       
   except Exception as e:
     print(f"Erro: {e}")
-    searchAmazon()
+    # searchMercadoLivre()
   finally:
     driver.quit()
       
